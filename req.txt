@@ -1,0 +1,7 @@
+loguru
+web3
+eth_typing
+hexbytes
+python-dotenv
+pyuseragents
+playwright
